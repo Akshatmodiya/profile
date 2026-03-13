@@ -1,3 +1,5 @@
-## 🐍 Contribution Snake
+## 🐍 3D Contribution Snake
 
-![snake gif](https://github.com/Akshatmodiya/Akshatmodiya/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/Akshatmodiya/Akshatmodiya/blob/output/github-contribution-grid-snake.svg" />
+</p>
